@@ -1,0 +1,6 @@
+com\fedex\common\util\KafkaUtil.class
+com\fedex\common\util\CommonUtils.class
+com\fedex\common\kafka\KafkaConfigCommon.class
+com\fedex\common\model\SwakInfo.class
+com\fedex\common\util\KafkaProducerCallBack.class
+com\fedex\common\model\InvoiceDetails.class

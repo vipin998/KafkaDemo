@@ -1,0 +1,13 @@
+[
+  {
+    "flightId": 1,
+    "origin": "pune",
+    "destination": "us",
+    "departureTime": "12:30",
+    "destinationTime": "15:20",
+    "price": 10,
+    "flightProviders": {
+      "flightProviderId": 2
+    }
+  }
+]
